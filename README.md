@@ -20,6 +20,7 @@
   <img src="https://img.shields.io/badge/Code-JavaScript-yellow?logo=javascript" />
   <img src="https://img.shields.io/badge/Frontend-React-blue?logo=react" />
   <img src="https://img.shields.io/badge/Backend-Node.js-green?logo=node.js" />
+  <img src="https://img.shields.io/badge/Language-Python-blue?logo=python" />
   <img src="https://img.shields.io/badge/Database-PostgreSQL-blue?logo=postgresql" />
   <img src="https://img.shields.io/badge/Version-Git-orange?logo=git" />
   <img src="https://img.shields.io/badge/Cloud-AWS-gray?logo=amazonaws" />
